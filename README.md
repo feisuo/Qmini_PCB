@@ -6,18 +6,19 @@ Extend board for Qmini
 
 Qmini Power and 485 PCB board consists of two file
 
+## Files
+### 1. Power Board
+![](./Qmini_Power.png)
 
-![](./assets/LeLamp_tag.png)
+### 2. Power & 485 Board
 
-## How to get it
-- ### Proofing using the provided source files
-- ### [PCBWay](https://www.pcbway.com/project/shareproject/LeLamp_Expansion_Board_38a28335.html)
-- ### Buy on [Aliexpress bewait ]() or [淘宝](https://e.tb.cn/h.SQTekpxcpq8GLRg?tk=7IRnf2EZkhV)
-
-
-
-1. Power Board
+![](./QMini 485.png)
 
 
 
-2. Power Board & 485
+
+
+
+
+
+
