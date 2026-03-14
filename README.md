@@ -8,11 +8,11 @@ Qmini Power and 485 PCB board consists of two file
 
 ## Files
 ### 1. Power Board
-![](./assets/Qmini_Power.png){width=160px}
+![image](./assets/Qmini_Power.png =300x)
 
 ### 2. Power & 485 Board
 
-![](./assets/QMini_485.png){width=300px}
+![image](./assets/Qmini_485.png){width=300px}
 
 
 
